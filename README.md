@@ -15,9 +15,9 @@
 
 #### 效果图
 
-![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshoot/1.png)
-![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshoot/2.png)
-![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshoot/3.png)
-![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshoot/4.png)
+![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshot/1.png)
+![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshot/2.png)
+![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshot/3.png)
+![图片](https://github.com/yangsphp/tprbac-v2-master/blob/main/screenshot/4.png)
 
 具体设计可查看我的博客：[PHP + TP5框架 + LayUI权限管理系统](https://www.cnblogs.com/yang-2018/p/16490076.html)
